@@ -4,7 +4,6 @@ what I made ?
 ---------------------------------------------------------------------------------------------
 
 Cleaned and Analyzed data by  campaigns , cost and revenue methods using PowerBI
-
 Recommended strategies to optimize Anjum Hotel marketing spending and maximize bookings and revenue,ROI 62%
 
 Marketing_Campaign_Effectiveness_PowerBI
