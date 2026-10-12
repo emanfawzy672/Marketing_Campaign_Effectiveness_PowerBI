@@ -11,7 +11,6 @@ Marketing_Campaign_Effectiveness_PowerBI
 ---------------------------------------------------------------------------------------------
 
 Anjum Hotel has been running various marketing campaigns to increase room bookings and enhance brand visibility.Despite investing significantly in these 
-
 campaigns,the hotel management is unsure which channels yield the highest return on investment (ROI) and which campaign strategies are most effective. They want to
 
 optimize their marketing spend and maximize bookings and revenue.
