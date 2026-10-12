@@ -13,7 +13,9 @@ Anjum Hotel has been running various marketing campaigns to increase room bookin
 campaigns,the hotel management is unsure which channels yield the highest return on investment (ROI) and which campaign strategies are most effective. They want to
 optimize their marketing spend and maximize bookings and revenue.
 
-<img width="1172" height="674" alt="Capture_1" src="https://github.com/user-attachments/assets/372b119c-da4b-4265-83ad-009fb7c6a77e" />
+<img width="1171" height="690" alt="Capture_1" src="https://github.com/user-attachments/assets/4fa32a1d-41de-4a0e-b4b5-c82d7f6a2da7" />
 
-<img width="1169" height="721" alt="Capture_2" src="https://github.com/user-attachments/assets/bc4df908-94df-40d5-af88-4ae195f096d7" />
+<img width="1172" height="719" alt="Capture_2" src="https://github.com/user-attachments/assets/804f1851-067b-4d87-ae07-7b999bf65b60" />
+
+
 
